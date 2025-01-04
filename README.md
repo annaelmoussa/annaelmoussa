@@ -1,38 +1,57 @@
-Hi 👋 My name is Annaël
-=======================
+```
+  _____                      _ _ 
+ |  __ \                    | | |
+ | |__) |___  __ _  ___  __| | |
+ |  _  // _ \/ _` |/ _ \/ _` | |
+ | | \ \  __/ (_| |  __/ (_| |_|
+ |_|  \_\___|\__,_|\___|\__,_(_)
+```
 
-Web developer
--------------
+<div align="center">
+  
+# < Hello World! /> 👋
 
-Fascinated by computers since the age of 12, I am passionate about web technologies
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=I'm+Anna%C3%ABl%2C+Full+Stack+Developer;Building+digital+experiences;Paris-based+tech+enthusiast)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [Annaël](http://annaelmoussa.me)
-* ✉️  You can contact me at [contact@annaelmoussa.me](mailto:contact@annaelmoussa.me)
-* 🧠  I'm learning VueJs
-* 🤝  I'm open to collaborating on interesting projects
+</div>
 
+```typescript
+const aboutMe = {
+  code: ['TypeScript', 'JavaScript', 'C#', 'PHP'],
+  tools: {
+    frontend: ['React ⚛️', 'TailwindCSS 🎨'],
+    backend:  ['.NET 🔷', 'Node.js 💚', 'Adonis.js ⚡'],
+    db:       ['PostgreSQL 🐘', 'MySQL 🗄️'],
+    design:   'Figma 🎯'
+  },
+  challenge: 'Currently mastering Adonis.js and building the next big thing',
+  funFact: 'Started coding at 12, never stopped since 🚀'
+}
+```
 
-### Skills
+<div align="center">
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<a href="http://annaelmoussa.me">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/annaelmoussa">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discord.com/users/Annaël#9421">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
+<br/>
+<br/>
 
-### Socials
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=annaelmoussa&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<p align="left"> <a href="https://discord.com/users/Annaël#9421" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/annaelmoussa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaelmoussa&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages"/>
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=annaelmoussa&style=flat-square&color=blue)
+
+</div>
